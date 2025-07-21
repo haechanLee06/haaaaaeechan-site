@@ -41,6 +41,14 @@ I'm currently a university student with a strong interest in **product managemen
 
 ---
 
+## 📝 Latest Posts
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%b %-d, %Y" }}
+{% endfor %}
+
+---
+
 ## 📫 Contact Me
 
 - Email: [your.email@example.com]
