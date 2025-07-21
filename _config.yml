@@ -1,6 +1,6 @@
 title: haaaaaeechan's website
 author: Yuqi Pan
 description: The best people in life are free！
-theme: minima
+theme: jekyll-theme-chirpy
 baseurl: "/haaaaaeechan-site"  
 permalink: /:categories/:year/:month/:day/:title.html
